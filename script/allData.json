@@ -1,0 +1,204 @@
+{
+  "story": [
+    {
+      "name": "descrip",
+      "pictures": [
+        {
+         "source": "img/allintroback.png",
+        "background": true
+        }
+      ],
+      "imageQuantity":29
+    },
+    {
+      "name": "brain",
+      "pictures": [
+        {
+          "source": "img/OPEN.png",
+          "domName": "#opening",
+          "background": true
+        },
+        {
+          "source": "img/brainintro.png",
+          "domName": "#intro .animatingObjA",
+          "background": true
+        },
+        {
+          "source":"img/facebook.png",
+          "domName":"#intro .animatingObjB",
+          "background":false
+        }
+      ],
+      "word":{
+          "title":"Introduction",
+          "article":"因為數位內容與科技學程，讓來自不同科系的我們有認識彼此的機會。在布雷恩百貨公司裡，再感性不雷大腦不雷恩百與理性大腦相遇；平衡小腦與不平衡小腦互相扶持；記憶海馬體和失憶海馬體彼此爭論；早睡松果體和失眠松果體互相協調。<br/>就一起來逛百貨公司吧！讓這裡刺激你的感官，讓你重新認識自己的大腦！"
+        }
+    },
+    {
+      "name": "shebetic",
+      "pictures": [
+        {
+          "source": "img/shebetic1.png",
+          "domName": "#shebetic",
+          "background": true
+        },
+        {
+          "source": "img/shebetic2.png",
+          "domName": "#shebetic .animatingObjA",
+          "background": true
+        },
+        {
+          "source": "img/shebetic3.png",
+          "domName": "#shebetic .animatingObjB",
+          "background": true
+        },
+        {
+          "source": "img/shebetic4title.png",
+          "domName": "#shebetic .staticObj",
+          "background": true
+        },
+        {
+          "source": "img/shebeintro.png",
+          "domName": "#shebeInfo .animatingObjA",
+          "background": true
+        },
+        {
+          "source":"img/she.png",
+          "domName":"#shebeInfo .animatingObjB",
+          "background":false
+        }
+      ],
+      "word":{
+          "title":"Shebetic",
+          "article":"我們是由六個政大女孩所組成的團隊，<br/>Shebetic來自於hebetic，<br>Hebe是希臘的青春女神，<br>而hebetic在希臘文中代表青春，<br>我們是青春的女孩，用最真誠的心擁抱生命<br>做自己最好的版本，不做別人的復刻本。"
+      }
+    },
+    {
+      "name": "trick",
+      "pictures": [
+        {
+          "source": "img/game1.png",
+          "domName": "#trick",
+          "background": true
+        },
+        {
+          "source": "img/game2.png",
+          "domName": "#trick .animatingObjA",
+          "background": true
+        },
+        {
+          "source": "img/game3.png",
+          "domName": "#trick .animatingObjB",
+          "background": true
+        },
+        {
+          "source": "img/game4title.png",
+          "domName": "#trick .staticObj",
+          "background": true
+        },
+        {
+          "source": "img/gameintro.png",
+          "domName": "#trickInfo .animatingObjA",
+          "background": true
+        },
+        {
+          "source":"img/TRI.png",
+          "domName":"#trickInfo .animatingObjB",
+          "background":false
+        }
+      ],
+      "word":{
+          "title":"trick o Trick",
+          "article":"超級還是瑪莉？烏龜還是鐵槌？Does it matter？<br>畢展都不畢展了，人生不過是場嚴肅遊戲。<br>努力想笑的時候，除了打開youtube看看無腦影片，<br>還能做些什麼呢？<br><br>有感光陰苦短，年華易逝，<br>這次，來玩場不一樣的遊戲吧！<br>顛覆傳統的規則裡，<br>認真出糗的人值得最華麗的獲勝！<br>給你一根棒棒糖，Let’s run into the devil！"
+      }
+    },
+    {
+      "name": "hakka",
+      "pictures": [
+        {
+          "source": "img/ebook1.png",
+          "domName": "#hakka",
+          "background": true
+        },
+        {
+          "source": "img/ebook2.png",
+          "domName": "#hakka .animatingObjA",
+          "background": true
+        },
+        {
+          "source": "img/ebook3.png",
+          "domName": "#hakka .animatingObjB",
+          "background": true
+        },
+        {
+          "source": "img/ebook4title.png",
+          "domName": "#hakka .staticObj",
+          "background": true
+        },
+        {
+          "source": "img/ebookintro.png",
+          "domName": "#hakkaInfo .animatingObjA",
+          "background": true
+        },
+        {
+          "source":"img/HAKA.png",
+          "domName":"#hakkaInfo .animatingObjB",
+          "background":false
+        }
+      ],
+      "word":{
+          "title":"細妹仔 來作客",
+          "article":"我們是四個生長在都市的細妹仔，喜歡畫圖、寫字、攝影、聊天、到處玩。團隊內有1又1/2的客家血統，對於客家文化我們既熟悉又陌生，終於藉此機會做客全台客家庄，收集客家故事。希望結合對於未來科技的想像，創作出屬於我們的客家世代。"
+      }
+    },
+    {
+      "name": "impact",
+      "pictures": [
+        {
+          "source": "img/impulse1.png",
+          "domName": "#impulse",
+          "background": true
+        },
+        {
+          "source": "img/impulse2.png",
+          "domName": "#impulse .animatingObjA",
+          "background": true
+        },
+        {
+          "source": "img/impulse3.png",
+          "domName": "#impulse .animatingObjB",
+          "background": true
+        },
+        {
+          "source": "img/impulse4title.png",
+          "domName": "#impulse .staticObj",
+          "background": true
+        },
+        {
+          "source": "img/impulseintro.png",
+          "domName": "#impulseInfo .animatingObjA",
+          "background": true
+        },
+        {
+          "source":"img/IM.png",
+          "domName":"#impulseInfo .animatingObjB",
+          "background":false
+        }
+      ],
+      "word":{
+          "title":"Impulse Effect",
+          "article":"[Impact劇組] 由政治大學數位內容學士學程為主的一群大學生組成，喜歡藉由特殊作品題材、表現形式作為催化劑，來探討社會議題或檢討普遍現狀，並帶給觀眾不同的啟發及衝擊。希望能藉由影片中的故事，激勵大眾化學變化，期待能用影片帶給世界那麼一點不同。"
+      }
+    },
+    {
+      "name": "others",
+      "pictures": [
+        {
+          "source": "img/map.png",
+          "domName": "#map",
+          "background": true
+        }
+      ]
+    }
+  ]
+}

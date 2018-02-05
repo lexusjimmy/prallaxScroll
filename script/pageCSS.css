@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+#buttonContainer{
+	position:fixed
+}
+.button{
+	position:absolute;
+	cursor:pointer;
+}
+#paraContainer{
+}
+#loadingBox{
+	position:absolute;
+}
+.frameAnimating{
+	overflow:hidden;
+}
+.frameAnimating img{
+	position:relative;
+}
+.foreignText{
+	font-family:'Nova Square', cursive;
+	text-align:center;
+}
+.title{
+	font-family:'Cinzel', serif;
+	font-family:'Special Elite', cursive;
+	position:absolute;
+	top:50px;
+}
+article{
+	font-family:"Microsoft JhengHei UI";
+	position:absolute;
+	top:150px;
+	line-height:22px;
+}
+.animatingObjA{
+	position:absolute;
+	z-index:20;
+	background-size:cover;
+}
+.animatingObjB{
+	position:absolute;
+	z-index:40;
+	background-size:cover;
+}
+.picSec{
+	background-size:cover;
+	position:relative;
+	left:-20px;
+}
+.wordSec{
+	background-size:cover;
+	position:relative;
+	left:-20px;
+}
+#opening{
+	top:-20px;
+	background-size:cover;
+	position:relative;
+	left:-20px;
+}
+.staticObj{
+	position:absolute;
+	z-index:100;
+	background-size:cover;
+}
+.picSec .staticObj{
+	background-position:center center;
+}
+body{
+	background-repeat:repeat;
+	background-image:url(../img/background.png)
+}
+.opt{
+	font-family:'Nova Square', cursive;
+	position:absolute;
+	cursor:pointer;
+}

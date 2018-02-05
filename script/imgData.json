@@ -1,0 +1,76 @@
+{
+  "image": [
+    {
+      "story": "floor1",
+      "path": "img/OPEN.png",
+      "xPlace": 0,
+      "yPlace": 0,
+      "divName": "#opening",
+      "backgroundImage": true,
+      "placeReCalculate":false
+    },
+    {
+      "story": "all",
+      "path": "img/allintroback.png",
+      "xPlace": 0,
+      "yPlace": 0,
+      "divName": "#testA",
+      "backgroundImage": true,
+      "placeReCalculate":false
+    },
+    {
+      "story": "floor1",
+      "path": "img/TRI.png",
+      "xPlace": 0,
+      "yPlace": 0,
+      "divName": "#testA .animatingObjA",
+      "backgroundImage": false,
+      "placeReCalculate":true
+    },
+    {
+      "story": "floor1",
+      "path": "img/IM.png",
+      "xPlace": 0,
+      "yPlace": 0,
+      "divName": "#testA .animatingObjB",
+      "backgroundImage": false,
+      "placeReCalculate":false
+    },
+    {
+      "story": "floor2",
+      "path": "img/blue.png",
+      "xPlace": 1350,
+      "yPlace": 400,
+      "divName": "#testB .animatingObjA",
+      "backgroundImage": false,
+      "placeReCalculate":false
+    },
+    {
+      "story": "floor2",
+      "path": "img/purple.png",
+      "xPlace": 0,
+      "yPlace": 0,
+      "divName": "#testB .animatingObjB",
+      "backgroundImage": false,
+      "placeReCalculate":true
+    },
+    {
+      "story": "floor2",
+      "path": "img/red.png",
+      "xPlace": 0,
+      "yPlace": 0,
+      "divName": "#testB .animatingObjC",
+      "backgroundImage": false,
+      "placeReCalculate":false
+    },
+    {
+      "story": "floor2",
+      "path": "img/cloudS70.png",
+      "xPlace": 0,
+      "yPlace": 0,
+      "divName": "#testB .animatingObjD",
+      "backgroundImage": false,
+      "placeReCalculate":false
+    },
+  ]
+}

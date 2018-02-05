@@ -1,0 +1,15 @@
+ "wordData":[
+     {
+         "title":"Impact Effect",
+         "domName":"#testB .wordSec",
+         "domFloor":2,
+         "article":"Impact and Effect are two words that are often confused when it comes to their meanings. The word impact is used in the sense of ‘influence’. On the other hand the word ‘effect’ is used in the sense of ‘result’. This is the main difference between the two words impact and effect.<br/>Impact on the other hand does not indicate a consequence but on the other hand it only implies the influence of an action. The usage of the word ‘impact’ implies ‘power’ whereas the usage of the word ‘effect’ implies ‘outcome’. This is the main difference between the two words.</br>It is interesting to note that the word ‘effect’ has various other forms such as adjective in ‘effective’, adverb in ‘effectively’ and the like. On the other hand the word ‘impact’ is used just as a noun. It is not used as an adjective and as an adverb. This is another important difference between the two words. It is generally said that any cause will have its own effect. In other words an effect is preceded by a cause."
+     },
+     {
+        "title":"trick o trick",
+         "domName":"#testA .wordSec",
+         "domFloor":1,
+         "article":"Middle English trikke, from Anglo-French *trik, from trikier to deceive, cheat, from Vulgar Latin *triccare, alteration of Latin tricari to behave evasively, shuffle, from tricae complications, trifles<br/>First Known Use: 15th century" 
+     }
+     ]
+}
